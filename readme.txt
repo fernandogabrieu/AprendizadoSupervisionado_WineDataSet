@@ -10,6 +10,4 @@ Autor: Fernando Gabriel
 
 - O método aplicado foi o de árvore de decisão. 
 
-- A figura wine.png ilustra a árvore de decisão de mostra o critério escolhido pela rede, os valores de entropia (impureza de variável), o número de amostras que cumprem com o critério definido e a classe correspondente aquele critério.
-
-
+- A figura wine.png ilustra a árvore de decisão e mostra o critério escolhido pelo treinamento da rede, os valores de entropia (impureza de variável), o número de amostras que cumprem com o critério definido e a classe correspondente aquele critério.

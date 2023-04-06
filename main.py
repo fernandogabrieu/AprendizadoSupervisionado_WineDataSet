@@ -81,7 +81,7 @@ Hue = 0.76
 OD280andOD315ofdilutedwines = 1.29
 Proline = 630
 
-# Predict a single decision, survive or not?
+# Predict a single decision, type 1, 2 or 3?
 print(clf.predict([[Alcohol,
                     Malicacid, 
                     Ash, 
