@@ -4,7 +4,7 @@ Autor: Fernando Gabriel
 
 - Há 1 atributo indicador de classe (1, 2 e 3) e 13 atributos de características encontradas em 3 tipos de vinhos.
 
-- Foram retirados 3 instâncias do data set, uma de cada classe, para realizar a predição no final do código (linhas 64-68).
+- Foram retirados 3 instâncias do data set, uma de cada classe, para realizar a predição no final do código.
 
 - Lembrar de alterar o caminho do graphviz na linha 50.
 
